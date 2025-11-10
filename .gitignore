@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+.idea/
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+dataset_handler.py
+.idea/
+*.egg-info
+data/
+clear_docs/
+raw_docs/
+
+# Virtual environments
+.venv
+
+# Environment files
+.env
+lib64
+**/.DS_Store
+
+# Test files
+datasets/
+test2.docx
+clear_docs/test2_chunks.json
